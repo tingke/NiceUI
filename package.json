@@ -18,5 +18,9 @@
   "homepage": "https://github.com/tingke/NiceUI#readme",
   "dependencies": {
     "vue": "^2.6.11"
+  },
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
   }
 }
